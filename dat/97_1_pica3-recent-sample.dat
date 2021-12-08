@@ -12,23 +12,23 @@
 1132 a1-analog;a2-masch;f1-text;f2-blatt;e2-uv;v-cont
 1500 /1ger
 1700 /1XA-DE
-4000 $aMitgliedsakte Josef Kral, Josel Kral & Co., Nachfolgendes Mitglied: Lore Friedrich
+4000 $aMitgliedsakte Ernst Töllner, Ernst Töllner Buchhandlung; Nachfolge: Rena Peplan
 4019 Mitgliedsakte$Bobja
 3100 !000073369!$BZusammenstellender$4com
-4046 Abensberg
+4046 Nordenham
 4060 1 Akte
 4105 !1061153886!
 5100 !000073369!
-5101 !132733579!
+5101 !1280504714!
 5109 (DE-101d){DE-101d}
 5560 [RNA]Korrespondenz
 5590 [Objektgattung]
 5590 !040009254!
 4700 |BSM|
 7001 08-12-21 : x
-7100 HA/BV 97.1,1309 @ m
-7109 !!DBSM/S!! ; HA/BV 97.1,1309
-6710 !1059758504!$l1309
+7100 HA/BV 97.1,2556 @ m
+7109 !!DBSM/S!! ; HA/BV 97.1,2556
+6710 !1059758504!$l2556
 	
 0500 Qd
 0501 Text$btxt
@@ -43,113 +43,113 @@
 1132 a1-analog;a2-masch;f1-text;f2-blatt;e2-uv;v-cont
 1500 /1ger
 1700 /1XA-DE
-4000 $aMitgliedsakte Willy Heinrich, Willy Heinrich Reise- und Versandbuchhandlung
+4000 $aMitgliedsakte Christel Löbsack, Buchversand für Besonderheiten Christel Löbsack
 4019 Mitgliedsakte$Bobja
 3100 !000073369!$BZusammenstellender$4com
-4046 Berlin
+4046 Hamburg
 4060 1 Akte
 4105 !1061153886!
 5100 !000073369!
-5550 [DBSM-S]Willy Heinrich
+5550 [DBSM-S]Christel Löbsack
 5109 (DE-101d){DE-101d}
 5560 [RNA]Korrespondenz
 5590 [Objektgattung]
 5590 !040009254!
 4700 |BSM|
 7001 08-12-21 : x
-7100 HA/BV 97.1,866 @ m
-7109 !!DBSM/S!! ; HA/BV 97.1,866
-6710 !1059758504!$l866
+7100 HA/BV 97.1,1464 @ m
+7109 !!DBSM/S!! ; HA/BV 97.1,1464
+6710 !1059758504!$l1464
 	
 0500 Qd
 0501 Text$btxt
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1958$b1968
-1110 *1958-1968$4lfzt
+1100 1955$b1958
+1110 *1955-1958$4lfzt
 1130 TB-papier
 1130 !040445224!
 1130 !041466098!
 1132 a1-analog;a2-masch;f1-text;f2-blatt;e2-uv;v-cont
 1500 /1ger
 1700 /1XA-DE
-4000 $aMitgliedsakte Hans-Jochen Kehrl
+4000 $aMitgliedsakte Dr. Werner Kratsch, Dr. Werner Kratsch Versandbuchhandlung, Nachfolgendes Mitglied: Liselotte Kratsch
 4019 Mitgliedsakte$Bobja
 3100 !000073369!$BZusammenstellender$4com
-4046 Stuttgart
+4046 Mannheim
 4060 1 Akte
 4105 !1061153886!
 5100 !000073369!
-5101 !118560948!
+5550 [DBSM-S]Werner Kratsch
 5109 (DE-101d){DE-101d}
 5560 [RNA]Korrespondenz
 5590 [Objektgattung]
 5590 !040009254!
 4700 |BSM|
 7001 08-12-21 : x
-7100 HA/BV 97.1,1160 @ m
-7109 !!DBSM/S!! ; HA/BV 97.1,1160
-6710 !1059758504!$l1160
+7100 HA/BV 97.1,1313 @ m
+7109 !!DBSM/S!! ; HA/BV 97.1,1313
+6710 !1059758504!$l1313
 	
 0500 Qd
 0501 Text$btxt
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1955$b1957
-1110 *1955-1957$4lfzt
+1100 1955$b1966
+1110 *1955-1966$4lfzt
 1130 TB-papier
 1130 !040445224!
 1130 !041466098!
 1132 a1-analog;a2-masch;f1-text;f2-blatt;e2-uv;v-cont
 1500 /1ger
 1700 /1XA-DE
-4000 $aMitgliedsakte Anna Kohlstädt, Friedrich Kohlstäft Buchhandlung
+4000 $aMitgliedsakte Christine Döbbeler
 4019 Mitgliedsakte$Bobja
 3100 !000073369!$BZusammenstellender$4com
-4046 Hofgeismar
+4046 Meppen
 4060 1 Akte
 4105 !1061153886!
 5100 !000073369!
-5550 [DBSM-S]Anna Kohlstädt
+5101 !1280493267!
 5109 (DE-101d){DE-101d}
 5560 [RNA]Korrespondenz
 5590 [Objektgattung]
 5590 !040009254!
 4700 |BSM|
 7001 08-12-21 : x
-7100 HA/BV 97.1,1283 @ m
-7109 !!DBSM/S!! ; HA/BV 97.1,1283
-6710 !1059758504!$l1283
+7100 HA/BV 97.1,396 @ m
+7109 !!DBSM/S!! ; HA/BV 97.1,396
+6710 !1059758504!$l396
 	
 0500 Qd
 0501 Text$btxt
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1955$b1964
-1110 *1955-1964$4lfzt
+1100 1955$b1961
+1110 *1955-1961$4lfzt
 1130 TB-papier
 1130 !040445224!
 1130 !041466098!
 1132 a1-analog;a2-masch;f1-text;f2-blatt;e2-uv;v-cont
 1500 /1ger
 1700 /1XA-DE
-4000 $aMitgliedsakte Kurt Schroeder, Kurt Schroeder Verlagsbuchhandlung; Ehrung im Börsenblatt Nr. 15/1964
+4000 $aMitgliedsakte Dr. Robert Janz, Buchhhandlung Dr. Janz
 4019 Mitgliedsakte$Bobja
 3100 !000073369!$BZusammenstellender$4com
-4046 Bonn
+4046 Itzehoe
 4060 1 Akte
 4105 !1061153886!
 5100 !000073369!
-5101 !117072753!
+5550 [DBSM-S]Robert Janz
 5109 (DE-101d){DE-101d}
 5560 [RNA]Korrespondenz
 5590 [Objektgattung]
 5590 !040009254!
 4700 |BSM|
 7001 08-12-21 : x
-7100 HA/BV 97.1,2266 @ m
-7109 !!DBSM/S!! ; HA/BV 97.1,2266
-6710 !1059758504!$l2266
+7100 HA/BV 97.1,1084 @ m
+7109 !!DBSM/S!! ; HA/BV 97.1,1084
+6710 !1059758504!$l1084
