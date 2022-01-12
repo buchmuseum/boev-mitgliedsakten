@@ -12,23 +12,116 @@
 1132 a1-analog;a2-masch;f1-text;f2-blatt;e2-uv;v-cont
 1500 /1ger
 1700 /1XA-DE
-4000 $aMitgliedsakte Hans Steinkühler, Versandbuchhandlung Hans Steinkühler 
+4000 Mitgliedsakte Wilhelm Schneider, Wilhelm-Schneider-Verlag, Nachfolge: Johanna Hülsemann
 4019 Mitgliedsakte$Bobja
 3100 !000073369!$BZusammenstellender$4com
-4046 Bayreuth
+4046 Siegen
 4060 1 Akte
 4105 !1061153886!
+4700 |BSM|
 5100 !000073369!
-5550 [DBSM-S]Hans Steinkühler
+5550 [DBSM-P]Schneider, Wilhelm
 5109 (DE-101d){DE-101d}
 5560 [RNA]Korrespondenz
 5590 [Objektgattung]
 5590 !040009254!
+7001 12-01-22 : x
+7100 HA/BV 97.1,2209 @ m
+7109 !!DBSM/S!! ; HA/BV 97.1,2209
+6710 !1059758504!$l2209
+	
+0500 Qd
+0501 Text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1955$b1956
+1110 *1955-1956$4lfzt
+1130 TB-papier
+1130 !040445224!
+1130 !041466098!
+1132 a1-analog;a2-masch;f1-text;f2-blatt;e2-uv;v-cont
+1500 /1ger
+1700 /1XA-DE
+4000 Mitgliedsakte Wilhelmine Gosch, Wilhelm Gosch Buchhandlung
+4019 Mitgliedsakte$Bobja
+3100 !000073369!$BZusammenstellender$4com
+4046 Kappeln
+4060 1 Akte
+4105 !1061153886!
 4700 |BSM|
-7001 11-12-21 : x
-7100 HA/BV 97.1,2463 @ m
-7109 !!DBSM/S!! ; HA/BV 97.1,2463
-6710 !1059758504!$l2463
+5100 !000073369!
+5550 [DBSM-P]Gosch, Wilhelmine
+5109 (DE-101d){DE-101d}
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040009254!
+7001 12-01-22 : x
+7100 HA/BV 97.1,691 @ m
+7109 !!DBSM/S!! ; HA/BV 97.1,691
+6710 !1059758504!$l691
+	
+0500 Qd
+0501 Text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1957$b1959
+1110 *1957-1959$4lfzt
+1130 TB-papier
+1130 !040445224!
+1130 !041466098!
+1132 a1-analog;a2-masch;f1-text;f2-blatt;e2-uv;v-cont
+1500 /1ger
+1700 /1XA-DE
+4000 Mitgliedsakte Georg Wilhelm Müller, Tauros-Presse
+4019 Mitgliedsakte$Bobja
+3100 !000073369!$BZusammenstellender$4com
+4046 Hannover
+4060 1 Akte
+4105 !1061153886!
+4700 |BSM|
+5100 !000073369!
+5101 !1247330214!
+5109 (DE-101d){DE-101d}
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040009254!
+7001 12-01-22 : x
+7100 HA/BV 97.1,1663 @ m
+7109 !!DBSM/S!! ; HA/BV 97.1,1663
+6710 !1059758504!$l1663
+	
+0500 Qd
+0501 Text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1955$b1961
+1110 *1955-1961$4lfzt
+1130 TB-papier
+1130 !040445224!
+1130 !041466098!
+1132 a1-analog;a2-masch;f1-text;f2-blatt;e2-uv;v-cont
+1500 /1ger
+1700 /1XA-DE
+4000 Mitgliedsakte E. Hans Müller-Oelrichs, Eckart-Bücherstube, Nachfolgendes Mitglied: Margret Müller-Oelrichs
+4019 Mitgliedsakte$Bobja
+3100 !000073369!$BZusammenstellender$4com
+4046 Lübeck
+4060 1 Akte
+4105 !1061153886!
+4700 |BSM|
+5100 !000073369!
+5550 [DBSM-P]Müller-Oelrichs, E. Hans
+5109 (DE-101d){DE-101d}
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040009254!
+7001 12-01-22 : x
+7100 HA/BV 97.1,1684 @ m
+7109 !!DBSM/S!! ; HA/BV 97.1,1684
+6710 !1059758504!$l1684
 	
 0500 Qd
 0501 Text$btxt
@@ -43,113 +136,20 @@
 1132 a1-analog;a2-masch;f1-text;f2-blatt;e2-uv;v-cont
 1500 /1ger
 1700 /1XA-DE
-4000 $aMitgliedsakte August Friedrich Velmede, Rütten & Loening
+4000 Mitgliedsakte Grete Reissner
 4019 Mitgliedsakte$Bobja
 3100 !000073369!$BZusammenstellender$4com
-4046 Frankfurt a. M.
+4046 Stuttgart
 4060 1 Akte
 4105 !1061153886!
+4700 |BSM|
 5100 !000073369!
-5550 [DBSM-S]August Friedrich Velmede
+5550 [DBSM-P]Reissner, Grete
 5109 (DE-101d){DE-101d}
 5560 [RNA]Korrespondenz
 5590 [Objektgattung]
 5590 !040009254!
-4700 |BSM|
-7001 11-12-21 : x
-7100 HA/BV 97.1,2593 @ m
-7109 !!DBSM/S!! ; HA/BV 97.1,2593
-6710 !1059758504!$l2593
-	
-0500 Qd
-0501 Text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1955$b1966
-1110 *1955-1966$4lfzt
-1130 TB-papier
-1130 !040445224!
-1130 !041466098!
-1132 a1-analog;a2-masch;f1-text;f2-blatt;e2-uv;v-cont
-1500 /1ger
-1700 /1XA-DE
-4000 $aMitgliedsakte Wilhelm Patt
-4019 Mitgliedsakte$Bobja
-3100 !000073369!$BZusammenstellender$4com
-4046 München
-4060 1 Akte
-4105 !1061153886!
-5100 !000073369!
-5101 !1247331105!
-5109 (DE-101d){DE-101d}
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040009254!
-4700 |BSM|
-7001 11-12-21 : x
-7100 HA/BV 97.1,1804 @ m
-7109 !!DBSM/S!! ; HA/BV 97.1,1804
-6710 !1059758504!$l1804
-	
-0500 Qd
-0501 Text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1955$b1957
-1110 *1955-1957$4lfzt
-1130 TB-papier
-1130 !040445224!
-1130 !041466098!
-1132 a1-analog;a2-masch;f1-text;f2-blatt;e2-uv;v-cont
-1500 /1ger
-1700 /1XA-DE
-4000 $aMitgliedsakte Erna Mansbart, Buchhandlung Mansbart, Nachfolgendes Mitglied: Sibylle Freisler
-4019 Mitgliedsakte$Bobja
-3100 !000073369!$BZusammenstellender$4com
-4046 Bietigheim
-4060 1 Akte
-4105 !1061153886!
-5100 !000073369!
-5550 [DBSM-S]Erna Mansbart
-5109 (DE-101d){DE-101d}
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040009254!
-4700 |BSM|
-7001 11-12-21 : x
-7100 HA/BV 97.1,1527 @ m
-7109 !!DBSM/S!! ; HA/BV 97.1,1527
-6710 !1059758504!$l1527
-	
-0500 Qd
-0501 Text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1955$b1959
-1110 *1955-1959$4lfzt
-1130 TB-papier
-1130 !040445224!
-1130 !041466098!
-1132 a1-analog;a2-masch;f1-text;f2-blatt;e2-uv;v-cont
-1500 /1ger
-1700 /1XA-DE
-4000 $aMitgliedsakte Bruno Riemann, Nachfolge: Joachim Riemann
-4019 Mitgliedsakte$Bobja
-3100 !000073369!$BZusammenstellender$4com
-4046 Coburg
-4060 1 Akte
-4105 !1061153886!
-5100 !000073369!
-5550 [DBSM-S]Bruno Riemann
-5109 (DE-101d){DE-101d}
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040009254!
-4700 |BSM|
-7001 11-12-21 : x
-7100 HA/BV 97.1,1995 @ m
-7109 !!DBSM/S!! ; HA/BV 97.1,1995
-6710 !1059758504!$l1995
+7001 12-01-22 : x
+7100 HA/BV 97.1,1966 @ m
+7109 !!DBSM/S!! ; HA/BV 97.1,1966
+6710 !1059758504!$l1966
